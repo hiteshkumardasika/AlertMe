@@ -23,9 +23,12 @@ import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.SupportMapFragment;
 
+
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener, OnMapReadyCallback, LocationListener {
 
+
+    private Map customMap = new Map();
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -41,6 +44,14 @@ public class MainActivity extends AppCompatActivity
             public void onClick(View view) {
                 Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
+            }
+        });
+        FloatingActionButton addBuffer = (FloatingActionButton) findViewById(R.id.add_buffer);
+        addBuffer.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                System.out.println("in addBuffer::");
+
             }
         });
 
@@ -123,12 +134,13 @@ public class MainActivity extends AppCompatActivity
 
     @Override
     public void onMapReady(GoogleMap googleMap) throws SecurityException {
-
+        customMap.setGoogleMap(googleMap);
         googleMap.setMyLocationEnabled(true);
     }
 
     @Override
     public void onLocationChanged(Location location) {
+
 
     }
 }
