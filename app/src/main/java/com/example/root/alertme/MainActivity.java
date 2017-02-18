@@ -41,6 +41,7 @@ import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.Marker;
 import com.google.android.gms.maps.model.MarkerOptions;
 
+
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener, OnMapReadyCallback, LocationListener {
 
@@ -48,6 +49,7 @@ public class MainActivity extends AppCompatActivity
     boolean isFABOpen = false;
     Place place;
     GoogleMap map;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -71,6 +73,13 @@ public class MainActivity extends AppCompatActivity
                 } else {
                     closeFABMenu();
                 }
+            }
+        });
+        fab3.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                System.out.println("in addBuffer::");
+
             }
         });
 
@@ -230,5 +239,6 @@ public class MainActivity extends AppCompatActivity
         fab3.setEnabled(false);
         fab2.animate().translationY(0);
         fab3.animate().translationY(0);
+
     }
 }
