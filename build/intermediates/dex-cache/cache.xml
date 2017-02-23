@@ -1,2 +1,644 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="423fb69e69759d8b726fa4a4fb6a1ea9fc86d1cd">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-10.2.0_9df9bec2334ade921b6c487d5608a36d015ba2ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1fbf3733f36fea63e70373212796e70f9079981f">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-appindexing-10.2.0_7539fc1b48123ca7e00e6ab6c829c81da655570b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0f58195bee8a08f35e7d4ee7fd4b0479e570e172">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-10.2.0_d60016c67e79f91e8d1676d1087998908c47f281/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_a7e1e77b9c6411d254ff67c717be32ca94ab9277/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90270132a5f1a33584f453c571257dd35e728201">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-10.2.0_cff98d13f736cbb3694c452365bab4e25d77eb70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.2.0_d05298ff2d543803f315a467b42e9ca02ad5d35c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.2.0_8e9cb8605f8c515f56de1483b471fa53cfb2e755/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1bab75be1918fc9871be4da7afe38d7e4d308303">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-10.2.0_874c399ff7b082c827aeff664d98b9ac7dfe2d20/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-10.2.0_064544901a404214394e32f85e042ad8f84b6758/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67e38b80e19c53066e8038610e4649f7ea700d04">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_11b09a09236c76e73999488123924db8bda24343/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_48066a5623130eac7d8326d3a81975be3805ce62/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-10.2.0_5e3fda310c763a06a2b91b55b31109454e013b3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.2.0_b16ca5b19539a82920f7d3be12a2425e4de87a26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.2.0_bafa41d45dcc243a341bb5a9c2d6d1bc5f13ef94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48532a016bb0dfbe7970c147ce784598a515406b">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-10.2.0_95acd1474911bfb312ff03ab8a4d1aa80893fa38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea03bbfaed89818f233ee9918fac493f2b63895a">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-10.2.0_11d3c01bb1f5d9816923932f8089428883821203/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab0c7fe28f9506302eb39adf1ebf5858732e18ec">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-10.2.0_ba547915b7b1eb3029dca86c12687ccb988ccb00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1df6d719c4e264d66bb98baa5cb637495b8cca66">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-10.2.0_e3232d5ba7a30af2a4333dbfbc07f3804a3dd097/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3aaf1e7b5fe9f4d3ff22c4edc0ead631f7389d30">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-10.2.0_042151252bb249571e1f7eb1d8b9cd5dfdd78c5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_74af207075f9591b8b16b14254af1eb13f5a3769/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68485f21eeb5d6c9ed82c445d520b9fc81c87108">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-10.2.0_8ecab76b1bd2b6ebc4613df449eb8fca16851f8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.2.0_2d8aaaead984fb2faa8bae2ffb13506bec2cff87/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94fca868854457ede6df15c902938468c71d579e">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.2.0_40e2a0fcfc15376062149d0661fd1e0c5ea37f80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7d14fe9bd2283b2eb7fcab08458aa0357917e138">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-10.2.0_1e5ee0032256b1b376edaf5823faa715490ebb72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7157a9577c983651d6c6ee313813424fe2d8ab6">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-10.2.0_131a0725362777de74a406009ffa34919e9cba37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_6e58f6996e9550d3daa41c31a331c366bbf20bc7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fd2e9eadc9d214966ee7f60d6c5a17a335d7533">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-10.2.0_94765a37f74773816766a4373800b55c43cc6311/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.2.0_312c3d3484a1d030ff577af5d2b7ce061317ef9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="646b2c48e147b943f0a39842457fdc66d501e4b6">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-10.2.0_cd7eebd7f7917f5e635638cfa48f1d9c67eec65f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d08bb32b88df3dbcbe1d498c3c57f020b8c521ec">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-10.2.0_2cd2c9ad7e8a885db65fbc20ac35e1cdb9f29910/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_e87c04a018abf7d84e1b820a6f4b2a727fc38f77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_199b5e1590b0190051ba6c84ccfa8fe021cf694b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45e0953544711e0b5a2d227732e88cccb82793bc">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-10.2.0_c976b9509b43241989a8a75633ca6446f3f1fb6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_5b901f502d1527fb1779448ffa88d70955407a0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca82d5800780b1d53f0f9ab43678d8634a34cddc">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-10.2.0_10fcd6d7ccb39f3ee7ed69415aec60e603768cb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9493f008850469ed3fab9b28658919562882aed">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-10.2.0_827cf9b4ef57401547f74f4491c70e71aee4ce1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db4aca1c1ec60f2c098d3b6c91cedfb7838f83ed">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-10.2.0_b2c55023ee9dfe17d68ca5cf17fe67d9e1917420/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ccaea89091c21778bbb97e88bb991454ad457a3e">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8d5e136cf75beeb9e40537ee05b6a6e43b795c1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-10.2.0_59a7c986e089be5c3d65d394fdcea1f71d6b3497/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="421a5cebe9ff187c98075c59786e9464c5c67d36">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-10.2.0_eaf3f8ada9d13a903c37cb7d001e3ef323bc3438/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.2.0_d52f912458be917fa5a0bcce399aa0c57fc6d73f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3f7595ca32e614b454ceb7b7e241bb037a28e86">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-10.2.0_e3d437beede90ed46c0899979a5fb42d6f7c8fc6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_0b35b1161434bdbe1396047a211b8584ea7a67c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75575883f0348fc5d2be85f23bd10b050095cf17">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-10.2.0_f9deedf24e36efc1ba483ce842791b25c26c9488/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddb7fed808f4331174b59428ccfc46b3696c9812">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-10.2.0_924fe52423890d3b16bd7f2839e13d305e957463/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_efc39ba95cdbc91ec7e89126cfcaa2ba496819ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d1d0e1270310e34e2d65afda2bc18605c14cd46">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-10.2.0_4f3bdcfa6bb2a9bcb3829ff62d6a6e3d7b525e3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_5e906291d4eabae96a42381946f08ec8e31f906d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_07fbd9e343f1fba6b65e027ea3267fac9cc04685/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.github.jd-alexander/library/1.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bde00e92c4a5a0a1075df7404248ccb30fc7e62b">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.jd-alexander-library-1.1.0_dd31aec4422db9ca987d12fbbaa47031de121ab0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="101393e975eaf36e3ff40b277ee9a019e077afef">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-10.2.0_08b32d559f9cdf0d02b51a70e04bd7bcb8f8c88d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.2.0_2d09ac54d6e287565acd152418956365d2973da9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e01b82d664e1a8253b2b9658e74b5da35c8771d">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-10.2.0_ea46a4480550b2351671b926779b7134883066b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8438c64f9eb581429dc592f7c9b3156a3d071653">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-v4-impl-10.2.0_5bd6dedab3c6bdb9ee877135394eb8ddffbffc00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e1d31656bc9f1889283836e025e6cb703acd38a">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-10.2.0_29d9b3590bfbc3d7ca5c063b11aa7b3872f5b0ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_f41837ab803fd4a62fa1b56820007d744ec613d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db48dfabe8ecc46681ceca418d6bd61a5339f818">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-10.2.0_2bdfc29fc876e2a82e262d5b2d7c17de0c2cc962/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.2.0_dacb788e5d2ce25e9bc310d8d8fc47e1bde8184e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_74c5a372f16b3dc08caaa8c73d220c49557b8519/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b831d3902674d096189451d46fce219e2c2904b7">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-10.2.0_abc0a4c17e54120ea7bbe11adbb495ccdff80e2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="74c5a91d6510ad42410e8a047d90d2ea6721a0e0">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-10.2.0_634a2c43f880651ca35bc71c57e1faeaa33b5f5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_f9ab7fe95ed01df0e47e2936b99b1d6903f5cf1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_2942361686bf8a348a606c62bcd605a15b4392c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_9f25156c32d42d5481883328fcef97be1269d65f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="654b294d429b56fd18392f2b68ad79954f431f8e">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-10.2.0_e3b3e3625d9319316424a0ed163918eff70c7a61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_0b50d5526156de1c0bcc30db24b064977271bee0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_ca5372a137bb442bd3488f99f6f230a88e484dfe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c33a912fe86b8f50b3491b29076cfb993c69797a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.2.0_c5a76c30fbad7c67a557dc5b622c11557a452f6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_7471cd21d798e63ef77fc9e32d64585f249a7203/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="444f9de23145e8caba7bf1c1772acad142ea6013">
+        <dex dex="/home/jeffravi/Documents/Assingment Android Projects/AlertMe/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-10.2.0_9646c8792f41d3cf7c613ea306b78173fc00d0ae/classes.dex" />
+    </item>
+
+</items>
