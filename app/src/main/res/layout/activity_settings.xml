@@ -48,7 +48,7 @@
             android:layout_width="match_parent"
             android:layout_height="50dp">
             <TextView
-                android:text="Default Buffer (km)"
+                android:text="Default Buffer (m)"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:id="@+id/bufferTV"
@@ -67,11 +67,12 @@
             <TextView
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
-                android:id="@+id/user"
+                android:id="@+id/userTV"
                 android:textSize="20dp"
                 android:text="User"
                 android:layout_weight="0.5"
                 android:layout_gravity="left"
+                android:gravity="center_vertical"
                 />
             <EditText
                 android:layout_width="0dp"
@@ -80,16 +81,22 @@
                 android:layout_weight="0.5"
                 android:id="@+id/userName"
                 android:hint="User Name"
+                android:gravity="right"
                 />
         </LinearLayout>
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="50dp">
 
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="60dp">
+
             <Button
                 android:text="Save"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="match_parent"
                 android:id="@+id/saveSettings"
                 android:layout_weight="1"
                 android:layout_margin="5dp"
@@ -97,12 +104,23 @@
             <Button
                 android:text="Cancel"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="match_parent"
                 android:id="@+id/cancelSettings"
                 android:layout_margin="5dp"
                 android:layout_weight="1" />
         </LinearLayout>
+        <LinearLayout
 
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Clear Settings"
+                android:id="@+id/clear"
+                android:layout_gravity="bottom"/>
+        </LinearLayout>
 
 
 
